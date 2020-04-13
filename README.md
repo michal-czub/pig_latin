@@ -1,0 +1,1 @@
+Solves pig latin game
